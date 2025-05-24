@@ -22,6 +22,8 @@ A responsive chatbot interface with Google Gemini API integration using Next.js 
 
 ## Getting Started
 
+## Live Link [https://gemini-chatbot-lovat-iota.vercel.app/]
+
 ### Prerequisites
 
 - Node.js 18.17 or later
